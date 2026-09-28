@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MyNote (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MyNote (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
